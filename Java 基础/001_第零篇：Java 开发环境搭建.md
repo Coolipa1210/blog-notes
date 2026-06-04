@@ -164,9 +164,7 @@ D:\Develop\Java\jdk-21
 %JAVA_HOME%\bin
 ```
 
-
-![编辑 Path](imgs/001_编辑 Path 截图占位.png)
-
+![[blog-notes/Java 基础/imgs/001_编辑 Path 截图占位.png]]
 配置完成后一路点击“确定”保存。
 
 为了让新配置生效，建议关闭当前命令行窗口，重新打开一个新的命令行窗口。
@@ -296,7 +294,7 @@ Project（项目）
 | 项目名称 | 例如 `JavaStudy` |
 | 项目路径 | 放在自己的学习目录中 |
 
-
+![[blog-notes/Java 基础/imgs/001_编辑 Path 截图占位.png]]
 ![IDEA 创建项目](imgs/001_IDEA 创建项目截图占位.png)
 
 如果 IDEA 没有自动识别 JDK，可以手动选择 JDK 安装目录。
